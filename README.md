@@ -18,9 +18,6 @@ A real-time chat application built with Django Channels and React.
 - *Frontend*: React, CSS Modules
 - *Features*: Real-time messaging, WebSocket connections, multiple chat rooms
 
-[![Chat App](https://github-readme-stats.vercel.app/api/pin/?username=Mohamednufaij&repo=chat-app)](https://github.com/Mohamednufaij)/chat-app)
-
-
 ### 2. E-commerce Website
 An online store with product listings, shopping cart, and checkout functionality.
 
@@ -28,15 +25,13 @@ An online store with product listings, shopping cart, and checkout functionality
 - *Frontend*: React, Bootstrap
 - *Features*: Product management, user authentication, order processing
 
-[![E-commerce Website](https://github-readme-stats.vercel.app/api/pin/?username=Mohamednufaij&repo=ecommerce-website)](https://github.com/yourusername/ecommerce-website)
-
 ### 3. Data Analysis Project
 A data analysis project showcasing my skills in Python, Excel, and PowerBI.
 
 - *Tools*: Python, Excel, PowerBI
 - *Features*: Data cleaning, analysis, visualization
 
-[![Data Analysis Project](https://github-readme-stats.vercel.app/api/pin/?username=Mohamednufaij&repo=data-analysis-project)](https://github.com/yourusername/data-analysis-project)
+
 
 ## 📫 Contact Me
 
