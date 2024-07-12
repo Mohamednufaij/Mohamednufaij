@@ -5,8 +5,8 @@ I'm a software developer with a passion for building web applications and perfor
 ## 🚀 Skills
 
 - *Backend*: Django, SQL
-- *Frontend*: React, HTML, CSS, Bootstrap
-- *Data Analysis*: Python, Excel, PowerBI
+- *Frontend*: React, HTML, CSS, Javascript, Bootstrap
+- *Data Analysis*: Python, SQL, Excel, PowerBI
 - *Tools*: Git, GitHub, VSCode
 
 ## 🛠️ Projects
