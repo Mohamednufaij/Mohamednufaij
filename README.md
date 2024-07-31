@@ -1,44 +1,24 @@
-# Hi there, I'm Mohamed Nufaij👋
+<h1 align="center">Hi 👋, I'm Mohamed Nufaij</h1>
+<h3 align="center">I'm a software developer with a passion for building web applications and performing data analysis. I have experience in a variety of technologies, including Django, SQL, React, HTML, CSS, and Bootstrap. I also have skills in Python and data analysis tools such as Excel and PowerBI. Below, you'll find a selection of my projects that showcase my skills and interests.</h3>
 
-I'm a software developer with a passion for building web applications and performing data analysis. I have experience in a variety of technologies, including Django, SQL, React, HTML, CSS, and Bootstrap. I also have skills in Python and data analysis tools such as Excel and PowerBI. Below, you'll find a selection of my projects that showcase my skills and interests.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamednufaij&label=Profile%20views&color=0e75b6&style=flat" alt="mohamednufaij" /> </p>
 
-## 🚀 Skills
+- 👨‍💻 All of my projects are available at [https://nufaij-official-website.vercel.app/](https://nufaij-official-website.vercel.app/)
 
-- *Backend*: Django, SQL
-- *Frontend*: React, HTML, CSS, Javascript, Bootstrap
-- *Data Analysis*: Python, SQL, Excel, PowerBI
-- *Tools*: Git, GitHub, VSCode
+- 💬 Ask me about **React,Django,SQL**
 
-## 🛠️ Projects
+- 📫 How to reach me **nufaijjufu321@gmail.com**
 
-### 1. Chat App
-A real-time chat application built with Django Channels and React.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mohamed nufaij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed nufaij" height="30" width="40" /></a>
+</p>
 
-- *Backend*: Django, Django Channels, WebSockets
-- *Frontend*: React, CSS Modules
-- *Features*: Real-time messaging, WebSocket connections, multiple chat rooms
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-### 2. E-commerce Website
-An online store with product listings, shopping cart, and checkout functionality.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamednufaij&show_icons=true&locale=en&layout=compact" alt="mohamednufaij" /></p>
 
-- *Backend*: Django, SQLite
-- *Frontend*: React, Bootstrap
-- *Features*: Product management, user authentication, order processing
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamednufaij&show_icons=true&locale=en" alt="mohamednufaij" /></p>
 
-### 3. Data Analysis Project
-A data analysis project showcasing my skills in Python, Excel, and PowerBI.
-
-- *Tools*: Python, Excel, PowerBI
-- *Features*: Data cleaning, analysis, visualization
-
-
-
-## 📫 Contact Me
-
-Feel free to reach out if you want to collaborate on a project, have a question, or just want to say hi!
-
-- *Email*: nufaijjufu321@example.com
-- *LinkedIn*: Mohamed Nufaij (https://www.linkedin.com/in/mohamed-nufaij-826174191/)
-- *GitHub*: Mohamednufaij(https://github.com/Mohamednufaij)
-
-Thanks for stopping by!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamednufaij&" alt="mohamednufaij" /></p>
