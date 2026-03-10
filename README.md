@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Nufaij</h1>
-<h3 align="center">I'm a software developer with a passion for building web applications and performing data analysis. I have experience in a variety of technologies, including Django, SQL, React, HTML, CSS, and Bootstrap. I also have skills in Python and data analysis tools such as Excel and PowerBI. Below, you'll find a selection of my projects that showcase my skills and interests.</h3>
+<h3 align="center">I'm a software developer buidling customisable erp solution for your business.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamednufaij&label=Profile%20views&color=0e75b6&style=flat" alt="mohamednufaij" /> </p>
 
