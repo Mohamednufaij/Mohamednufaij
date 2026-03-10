@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamednufaij&label=Profile%20views&color=0e75b6&style=flat" alt="mohamednufaij" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://nufaij-official-website.vercel.app/](https://nufaij-official-website.vercel.app/)
-
-- 💬 Ask me about **React,Django,SQL**
-
-- 📫 How to reach me **nufaijjufu321@gmail.com**
+-  How to reach me **nufaijjufu321@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
